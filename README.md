@@ -43,5 +43,5 @@ _______________________________________________________________________________
 - CyberDefenders - https://lnkd.in/dVcmjEw8
 - LetsDefend- https://letsdefend.io/
 - Hackviser (beta) - https://hackviser.com/
-- https://pentesterlab.com/
-- https://portswigger.net/web-security/all-labs
+- PentesterLab - https://pentesterlab.com/
+- Portswigger Labs- https://portswigger.net/web-security/all-labs
